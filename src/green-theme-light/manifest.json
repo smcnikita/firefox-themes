@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Green Theme (Light)",
+  "description": "A light theme from the Chrome browser with green as the main color",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(184, 201, 204)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(219, 228, 230)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(219, 228, 230)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(184, 201, 204)",
+      "popup": "rgb(219, 228, 230)",
+      "popup_text": "rgb(0, 0, 0)",
+      "ntp_background": "rgb(219, 228, 230)",
+      "ntp_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(184, 201, 204)"
+    }
+  }
+}
