@@ -1,0 +1,17 @@
+{
+  "name": "firefox-themes",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Firefox themes",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./web-ext-artifacts ./prepareFolder && node ./build.js && rm -rf ./prepareFolder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "web-ext": "^8.2.0"
+  }
+}
