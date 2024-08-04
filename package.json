@@ -5,7 +5,8 @@
   "description": "Firefox themes",
   "main": "index.js",
   "scripts": {
-    "build": "rm -rf ./web-ext-artifacts ./prepareFolder && node ./build.js && rm -rf ./prepareFolder"
+    "build": "rm -rf ./web-ext-artifacts ./prepareFolder && node ./build.js && rm -rf ./prepareFolder",
+    "build:green-theme": "rm -rf ./web-ext-artifacts && web-ext build --source-dir ./dynamicTheme/green-theme --overwrite-dest"
   },
   "keywords": [],
   "author": "",
