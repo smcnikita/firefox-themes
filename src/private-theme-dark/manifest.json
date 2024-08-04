@@ -15,6 +15,7 @@
       "tab_line": "rgb(64, 64, 118)",
       "popup": "rgb(64, 64, 118)",
       "popup_text": "rgb(255, 255, 255)",
+      "ntp_background": "rgb(35, 35, 79)",
       "tab_loading": "rgb(64, 64, 118)"
     }
   }
