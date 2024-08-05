@@ -1,5 +1,7 @@
 # Themes for Firefox
 
+[All my themes](https://addons.mozilla.org/en-US/firefox/user/16633407)
+
 ## Private Theme (Dark)
 
 A dark theme from the Vivaldi browser with purple as the main color.
