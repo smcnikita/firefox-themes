@@ -10,6 +10,14 @@ A dark theme from the Vivaldi browser with purple as the main color.
 
 ![Private Theme (Dark)](./src/private-theme-dark/assets/private-theme-dark.jpg)
 
+## Purple Theme (Dark)
+
+A dark theme from the Chrome browser with purple as the main color.
+
+[Firefox Addons](https://addons.mozilla.org/en/firefox/addon/purple-theme-dark)
+
+![Purple Theme (Dark)](./src/purple-theme-dark/assets/purple-theme-dark.jpg)
+
 ## Green Theme (Dark)
 
 A dark theme from the Chrome browser with green as the main color.
