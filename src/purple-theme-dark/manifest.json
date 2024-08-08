@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Purple Theme (Dark)",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(64, 56, 77)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(35, 28, 48)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(35, 28, 48)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(64, 56, 77)",
+      "popup": "rgb(35, 28, 48)",
+      "popup_text": "rgb(255, 255, 255)",
+      "ntp_background": "rgb(35, 28, 48)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(64, 56, 77)"
+    }
+  }
+}
