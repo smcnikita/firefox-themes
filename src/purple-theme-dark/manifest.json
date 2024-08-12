@@ -2,9 +2,8 @@
   "manifest_version": 2,
   "version": "1.0",
   "name": "Purple Theme (Dark)",
+  "homepage_url": "https://github.com/smcnikita/firefox-themes/tree/main/src/purple-theme-dark",
   "theme": {
-    "images": {},
-    "properties": {},
     "colors": {
       "toolbar": "rgb(64, 56, 77)",
       "toolbar_text": "rgb(255, 255, 255)",
@@ -17,7 +16,8 @@
       "popup_text": "rgb(255, 255, 255)",
       "ntp_background": "rgb(35, 28, 48)",
       "ntp_text": "rgb(255, 255, 255)",
-      "tab_loading": "rgb(64, 56, 77)"
+      "tab_loading": "rgb(64, 56, 77)",
+      "sidebar": "rgb(35, 28, 48)"
     }
   }
 }

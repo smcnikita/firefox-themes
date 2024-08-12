@@ -2,9 +2,8 @@
   "manifest_version": 2,
   "version": "1.0",
   "name": "Green Theme (Dark)",
+  "homepage_url": "https://github.com/smcnikita/firefox-themes/tree/main/src/green-theme-dark",
   "theme": {
-    "images": {},
-    "properties": {},
     "colors": {
       "toolbar": "rgb(52, 61, 63)",
       "toolbar_text": "rgb(255, 255, 255)",
@@ -15,7 +14,8 @@
       "tab_line": "rgb(52, 61, 63)",
       "popup": "rgb(52, 61, 63)",
       "popup_text": "rgb(255, 255, 255)",
-      "tab_loading": "rgb(52, 61, 63)"
+      "tab_loading": "rgb(52, 61, 63)",
+      "sidebar": "rgb(24, 33, 35)"
     }
   }
 }

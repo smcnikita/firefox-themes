@@ -2,9 +2,8 @@
   "manifest_version": 2,
   "version": "1.2",
   "name": "Private Theme (Dark)",
+  "homepage_url": "https://github.com/smcnikita/firefox-themes/tree/main/src/private-theme-dark",
   "theme": {
-    "images": {},
-    "properties": {},
     "colors": {
       "toolbar": "rgb(64, 64, 118)",
       "toolbar_text": "rgb(255, 255, 255)",
@@ -16,7 +15,8 @@
       "popup": "rgb(64, 64, 118)",
       "popup_text": "rgb(255, 255, 255)",
       "ntp_background": "rgb(35, 35, 79)",
-      "tab_loading": "rgb(64, 64, 118)"
+      "tab_loading": "rgb(64, 64, 118)",
+      "sidebar": "rgb(35, 35, 79)"
     }
   }
 }

@@ -3,9 +3,8 @@
   "version": "1.0",
   "name": "Green Theme (Light)",
   "description": "A light theme from the Chrome browser with green as the main color",
+  "homepage_url": "https://github.com/smcnikita/firefox-themes/tree/main/src/green-theme-light",
   "theme": {
-    "images": {},
-    "properties": {},
     "colors": {
       "toolbar": "rgb(184, 201, 204)",
       "toolbar_text": "rgb(0, 0, 0)",
@@ -18,7 +17,8 @@
       "popup_text": "rgb(0, 0, 0)",
       "ntp_background": "rgb(219, 228, 230)",
       "ntp_text": "rgb(0, 0, 0)",
-      "tab_loading": "rgb(184, 201, 204)"
+      "tab_loading": "rgb(184, 201, 204)",
+      "sidebar": "rgb(219, 228, 230)"
     }
   }
 }
