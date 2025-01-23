@@ -1,39 +1,39 @@
-# Themes for Firefox
+# Firefox Themes
 
-[All my themes](https://addons.mozilla.org/en-US/firefox/user/16633407)
+A collection of vibrant color themes for your Firefox browser.
 
-## Private Theme (Dark)
+Explore all themes on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/16633407)
 
-A dark theme from the Vivaldi browser with purple as the main color.
+---
 
-[Firefox Addons](https://addons.mozilla.org/en/firefox/addon/private-theme-dark)
+## Dark Themes
 
-![Private Theme (Dark)](./src/private-theme-dark/assets/private-theme-dark.jpg)
+### Purple Theme / Dark
 
-## Purple Theme (Dark)
+[Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/purple-theme-dark)
 
-A dark theme from the Chrome browser with purple as the main color.
+[![Purple Theme (Dark)](./src/purple-theme-dark/assets/purple-theme-dark.jpg)](https://addons.mozilla.org/en/firefox/addon/purple-theme-dark)
 
-[Firefox Addons](https://addons.mozilla.org/en/firefox/addon/purple-theme-dark)
+### Private Theme / Dark
 
-![Purple Theme (Dark)](./src/purple-theme-dark/assets/purple-theme-dark.jpg)
+[Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/private-theme-dark)
 
-## Green Theme (Dark)
+[![Private Theme (Dark)](./src/private-theme-dark/assets/private-theme-dark.jpg)](https://addons.mozilla.org/en/firefox/addon/private-theme-dark)
 
-A dark theme from the Chrome browser with green as the main color.
+### Green Theme / Dark
 
-[Firefox Addons](https://addons.mozilla.org/en/firefox/addon/green-theme-dark)
+[Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/green-theme-dark)
 
-![Green Theme (Dark)](./src/green-theme-dark/assets/green-dark-theme.jpg)
+[![Green Theme (Dark)](./src/green-theme-dark/assets/green-dark-theme.jpg)](https://addons.mozilla.org/en/firefox/addon/green-theme-dark)
 
-## Green Theme (Light)
+---
 
-A light theme from the Chrome browser with green as the main color.
+## Light Themes
 
-[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/green-theme-light)
+### Green Theme / Light
 
-![Green Theme (Dark)](./src/green-theme-light/assets/green-theme-light.jpg)
+[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/green-theme-light)
 
-## My Firefox Settings
+[![Green Theme / Light)](./src/green-theme-light/assets/green-theme-light.jpg)](https://addons.mozilla.org/en-US/firefox/addon/green-theme-light)
 
-[Github repository](https://github.com/smcnikita/my-firefox-settings)
+---
